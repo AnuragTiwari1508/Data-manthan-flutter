@@ -233,10 +233,3 @@ Thank you for exploring **Data Manthan** — we hope this project helps pave the
 
 ```
 
----
-
-You can paste this into your repository’s **README.md**, adjust names, variable names, screenshots, API paths etc. to exactly match your implementation.  
-
-If you want me to customize it further (e.g. include your team members, exact API endpoints, mobile app section, etc.), send me that detail and I’ll update it.
-::contentReference[oaicite:0]{index=0}
-```
