@@ -231,5 +231,3 @@ If you have questions, suggestions, or issues, feel free to reach out:
 
 Thank you for exploring **Data Manthan** — we hope this project helps pave the way for better integrated marine data science! 🌊
 
-```
-
