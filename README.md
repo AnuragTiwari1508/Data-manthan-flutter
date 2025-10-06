@@ -1,5 +1,3 @@
-# Data-manthan-flutter 
-
 # Data Manthan
 
 [![Live Site](https://img.shields.io/badge/Live–Site-🔗-blue)](https://data-manthan.vercel.app/)
